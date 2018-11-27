@@ -1,0 +1,32 @@
+Partlist
+
+Exported from 12V_PowerSupply_V01.brd at 11/27/2018 3:39 PM
+
+EAGLE Version 9.0.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package             Library             Position (mil)        Orientation
+
+B1       DBDB101G       DB                  rectifier           (450 250)             R0
+C1       330uF          E7,5-18             rcl                 (1000 1150)           R270
+C2       330uF          E7,5-18             rcl                 (1000 400)            R270
+C3       330uF          E7,5-18             rcl                 (1750 1150)           R270
+C4       330uF          E7,5-18             rcl                 (1750 400)            R270
+C5       10uF           E2,5-7              rcl                 (3100 1350)           R90
+C6       10uF           E2,5-7              rcl                 (3100 150)            R90
+C7       0.1uF          C150-054X183        rcl                 (2250 1150)           R270
+C8       0.1uF          C150-054X183        rcl                 (2250 400)            R270
+C9       0.1uf          C050-025X075        rcl                 (3100 1100)           R0
+C10      0.1uF          C050-025X075        rcl                 (3100 400)            R180
+D1       1N4004         DO41-10             diode               (2650 1150)           R0
+D2       1N4004         DO41-10             diode               (2650 600)            R0
+D3       1N4004         DO41-10             diode               (2650 950)            R180
+D4       1N4004         DO41-10             diode               (2650 400)            R180
+IC1      7812           78XXS               v-reg               (2650 1450)           R0
+IC2      7912           79XXS               v-reg               (2650 100)            R180
+J1                      2X5-SHROUDED        SparkFun-Connectors (3750 800)            R180
+J2                      SCREWTERMINAL-5MM-3 SparkFun-Connectors (300 650)             R90
+JP1                     1X04                pinhead             (3450 800)            R270
+R1       10k            0204/7              resistor            (3100 950)            R180
+R2       10k            0204/7              resistor            (3100 600)            R0
