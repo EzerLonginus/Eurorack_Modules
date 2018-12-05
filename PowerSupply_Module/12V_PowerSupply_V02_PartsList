@@ -1,0 +1,37 @@
+Partlist
+
+Exported from 12V_PowerSupply_V02.brd at 12/5/2018 3:52 PM
+
+EAGLE Version 9.0.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value               Package                  Library             Position (mil)        Orientation
+
+B1       DBDB101G            DB                       rectifier           (450 275)             R0
+C1       4700uF              E7,5-18                  rcl                 (1000 1175)           R270
+C2       4700uF              E7,5-18                  rcl                 (1000 425)            R270
+C3       10uF                E2,5-7                   rcl                 (3350 650)            R270
+C4       10uF                E2,5-7                   rcl                 (3350 950)            R270
+C5       10uF                E2,5-7                   rcl                 (2350 1375)           R90
+C6       10uF                E2,5-7                   rcl                 (2350 175)            R90
+C7       0.1uF               C150-054X183             rcl                 (1500 1175)           R270
+C8       0.1uF               C150-054X183             rcl                 (1500 425)            R270
+C9       0.1uf               C050-025X075             rcl                 (2350 1125)           R0
+C10      0.1uF               C050-025X075             rcl                 (2350 425)            R180
+D1       1N4004              DO41-10                  diode               (1900 1175)           R0
+D2       1N4004              DO41-10                  diode               (1900 625)            R0
+D3       1N4004              DO41-10                  diode               (1900 975)            R180
+D4       1N4004              DO41-10                  diode               (1900 425)            R180
+IC1      7812                78XXS                    v-reg               (1900 1475)           R0
+IC2      7912                79XXS                    v-reg               (1900 125)            R180
+J1                           2X5-SHROUDED             SparkFun-Connectors (2950 800)            R180
+J2                           SCREWTERMINAL-5MM-3      SparkFun-Connectors (300 650)             R90
+J3                           SCREWTERMINAL-3.5MM-2-NS SparkFun-Connectors (3025 1400)           R180
+J4                           SCREWTERMINAL-3.5MM-2-NS SparkFun-Connectors (2875 175)            R0
+JP1                          1X04                     pinhead             (2650 800)            R270
+L1       10uH                6000-XXXX-RC             rcl                 (3650 800)            R90
+R1       10k                 0204/7                   resistor            (2350 975)            R180
+R2       10k                 0204/7                   resistor            (2350 625)            R0
+U$1      8X2_HEADER_SHROUDED 8X2_HEADER_SHROUDED      EzerLonginus        (4050 800)            R180
+U$2      R_78E_5V            R_78E                    EzerLonginus        (3500 1200)           R0
